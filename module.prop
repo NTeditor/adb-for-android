@@ -1,0 +1,7 @@
+id=platform-tools
+name=adb & fastboot
+version=v35.0.2
+versionCode=10000
+author=NTeditor
+description=adb и fastboot для Android
+#updateJson=<url> (optional)
